@@ -1,7 +1,19 @@
 body {
     background-color: #dddddd;
+    font-family: sans-serif;
+    line-height: 2em;
+    max-inline-size: 900px;
+    margin: 0 auto;
+    padding: 1rem;
 }
 
-p {
+p, ul {
     max-width: 70%;
+}
+
+img {
+    float: right; 
+    inline-size: 50%; 
+    max-inline-size: 600px;
+    margin-inline-start: 1rem;
 }
