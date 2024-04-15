@@ -8,7 +8,7 @@ body {
 }
 
 p, ul {
-    max-width: 70%;
+    max-width: 640px;
 }
 
 img {
